@@ -31,7 +31,7 @@
     min-height: 100vh;
   }
   
-  /* Dark mode toggle - fixed top right */
+  // Dark mode toggle  
   .dark-toggle-wrapper {
     position: fixed;
     top: 20px;
@@ -39,7 +39,7 @@
     z-index: 1000;
   }
   
-  /* Toggle Switch */
+  // Toggle Switch 
   .switch {
     position: relative;
     display: inline-block;
